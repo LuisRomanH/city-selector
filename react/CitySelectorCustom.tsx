@@ -1,10 +1,10 @@
-import React from "react";
+import React from "react"
+import style from './style.css'
 
 const CitySelectorCustom = ()  => {
     
-
     return (
-        <div>City selector</div>
+        <div className={`${style.container} w-100 pv7`}>City selector</div>
     )
 }
 
