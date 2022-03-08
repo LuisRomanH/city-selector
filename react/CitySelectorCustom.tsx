@@ -1,6 +1,6 @@
 import React from "react";
 
-const CitySelector = ()  => {
+const CitySelectorCustom = ()  => {
     
 
     return (
@@ -8,4 +8,4 @@ const CitySelector = ()  => {
     )
 }
 
-export default CitySelector
+export default CitySelectorCustom
