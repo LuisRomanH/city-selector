@@ -1,10 +1,10 @@
-import React from "react"
+import React from "react";
 
 const CitySelector = ()  => {
     
 
     return (
-        <div>Hola mundo</div>
+        <div>City selector</div>
     )
 }
 
